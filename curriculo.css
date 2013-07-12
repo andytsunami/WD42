@@ -1,15 +1,22 @@
-	body{
-		font-family: sans-serif;
-	}
-	h2{
-    			background-color: #5599DD;
-    			color: #DDDDDD;
+body {
+	font-family: sans-serif;
 }
-			#exp p{
-    				
-    				margin-left: 50px;
-    			}
-    		#email{
-    			text-decoration: underline;
-    			font-style: italic;
-    		}
+h2 {
+	background-color: #5599DD;
+	color: #DDDDDD;
+}
+#exp p {
+
+	margin-left: 50px;
+}
+#email {
+	text-decoration: underline;
+	font-style: italic;
+}
+
+#corpo{
+	width: 960px;
+	margin: 0 200px 0 200px;
+	padding: 10px;
+	
+}
