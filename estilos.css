@@ -66,6 +66,15 @@ nav{
 
 nav ul li{
 	background-color: #C7BE9B;
+	margin-bottom: 5px;
+}
+nav ul{
+	list-style-type: none;
+	padding-left: 0;
+}
+nav ul li a{
+	color: #000000;
+	text-decoration: none;
 }
 #conteudo{
 	float: right;
