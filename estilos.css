@@ -25,3 +25,12 @@ h2{
 #tb-nutri tr th{
 	background-color: #F8EA6B;
 }
+
+#tb-nutri tr:nth-child(odd){
+	background-color: #F8EAB3;
+}
+
+#tb-nutri tr:nth-child(even){
+	background-color: #FFFFFF;
+}
+
