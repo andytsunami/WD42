@@ -63,6 +63,10 @@ nav{
 	float: left;
 	width: 200px;
 }
+
+nav ul li{
+	background-color: #C7BE9B;
+}
 #conteudo{
 	float: right;
 	width: 740px;
