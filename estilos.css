@@ -39,10 +39,6 @@ h2{
 	background-color: #FFFFFF;
 }
 
-nav ul li{
-	display: inline;
-	margin-right: 50px;
-}
 
 figure{
 	background-color: #FFFFFF;
@@ -52,11 +48,12 @@ figure{
 	border: 1px solid #000000;
 	font-family: "Comic Sans MS";
 	box-shadow:5px 5px 3px rgba(0,0,0,0.7);
+}
+
+figure:hover{
 	-moz-transform:rotate(-5deg);
 	-o-transform:rotate(-5deg);
-	-webkit-transform:rotate(-5deg);
-	
-	
+	-webkit-transform:rotate(-5deg);	
 }
 
 figure img{
