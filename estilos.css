@@ -76,6 +76,11 @@ nav ul li a{
 	color: #000000;
 	text-decoration: none;
 }
+
+nav ul li:hover{
+	background-color: #9C8F67;
+}
+
 #conteudo{
 	float: right;
 	width: 740px;
