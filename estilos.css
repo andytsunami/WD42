@@ -62,3 +62,6 @@ figure img{
 nav{
 	float: left;
 }
+#conteudo{
+	float: right;
+}
