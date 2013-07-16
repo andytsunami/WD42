@@ -85,3 +85,13 @@ nav ul li:hover{
 	float: right;
 	width: 740px;
 }
+#banner{
+	width: 500px;
+	position: fixed;
+	top: 0;
+	right: 0;
+	z-index: 1000;
+
+	
+}
+
